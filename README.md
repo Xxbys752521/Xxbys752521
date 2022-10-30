@@ -8,3 +8,5 @@ My name is Qizhao and I'm a front-end developer. I'm from China, living in QingD
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [xxbys.space](https://www.xxbys.space/) 
+
+![snake gif](https://github.com/Xxbys752521/Xxbys752521/blob/output/github-contribution-grid-snake.svg)
